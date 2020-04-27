@@ -1,0 +1,3 @@
+https://tuatini.me/practical-image-segmentation-with-unet/
+
+https://github.com/EKami/carvana-challenge/tree/original_unet/src
